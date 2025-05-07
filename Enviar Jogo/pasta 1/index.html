@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Enviar Jogo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f4f4f4;
+      padding: 2rem;
+    }
+
+    form {
+      max-width: 500px;
+      margin: auto;
+      background-color: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      color: #546c4a;
+    }
+
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+
+    input[type="text"], input[type="url"] {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.3rem;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background-color: #546c4a;
+      color: white;
+      border: none;
+      padding: 0.75rem;
+      width: 100%;
+      margin-top: 1.5rem;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #43583b;
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 10;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.5);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 12px;
+      text-align: center;
+      max-width: 300px;
+      color: #546c4a;
+      font-size: 1.2rem;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+<body>
+
+  <form id="form-jogo">
+    <h2>Adicionar Jogo</h2>
+
+    <label for="titulo">Título do Jogo</label>
+    <input type="text" id="titulo" required>
+
+    <label for="link">Link do Jogo (iframe)</label>
+    <input type="url" id="link" required>
+
+    <button type="submit">Salvar Jogo</button>
+  </form>
+
+  <!-- Modal de sucesso -->
+  <div class="modal" id="modal-sucesso">
+    <div class="modal-content">
+      ✅ Enviado com sucesso!
+    </div>
+  </div>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
+    import { getFirestore, collection, addDoc, serverTimestamp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBb_aj9jIHJRO42bfiwZ8bwdRH7HTx1zx0",
+      authDomain: "studytask-de96f.firebaseapp.com",
+      projectId: "studytask-de96f",
+      storageBucket: "studytask-de96f.firebasestorage.app",
+      messagingSenderId: "200960149603",
+      appId: "1:200960149603:web:9b956822c318fb12765056",
+      measurementId: "G-QBCDVHMH87"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+
+    const form = document.getElementById("form-jogo");
+    const modal = document.getElementById("modal-sucesso");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const titulo = document.getElementById("titulo").value.trim();
+      const link = document.getElementById("link").value.trim();
+
+      if (!titulo || !link) return;
+
+      try {
+        await addDoc(collection(db, "jogos"), {
+          titulo,
+          link,
+          dataCriacao: serverTimestamp()
+        });
+
+        form.reset();
+        modal.style.display = "flex";
+
+        setTimeout(() => {
+          modal.style.display = "none";
+        }, 2000);
+      } catch (error) {
+        alert("Erro ao salvar. Tente novamente.");
+        console.error(error);
+      }
+    });
+  </script>
+
+</body>
+</html>
