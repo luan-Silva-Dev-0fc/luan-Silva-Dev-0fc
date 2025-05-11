@@ -17,7 +17,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,python&theme=light&perline=4" alt="Tech stack" />
-    <img src="../RADME GIT/programmer-animate.svg" alt="Animação do Programador" width="200" />
+    <img src="https://raw.githubusercontent.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/refs/heads/main/programmer-animate.svg" alt="Animação do Programador" width="200" />
   </div>
 
   <hr style="border: 1px solid #546C4A; width: 60%; margin: 30px auto;" />
