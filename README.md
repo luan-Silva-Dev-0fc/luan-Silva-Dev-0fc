@@ -48,8 +48,6 @@
   </a>
 
 </div>
-
-<!-- Estilos -->
 <style>
 @keyframes fadeIn {
   0% { opacity: 0; }
