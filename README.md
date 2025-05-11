@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="../RADME GIT/Banner Github _20250510_204329_0000.jpg" alt="Meu Banner" style="width:100%; border-radius: 10px;" />
+<img src="../Banner Github _20250510_204329_0000.jpg" alt="Meu Banner" style="width:100%; border-radius: 10px;" />
 
 <!-- Fundo com cor personalizada -->
 <div align="center" style="background-color:#031319; padding: 40px; border-radius: 15px; color: white; font-family: 'Segoe UI', sans-serif;">
