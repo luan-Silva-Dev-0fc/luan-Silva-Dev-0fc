@@ -48,23 +48,3 @@
   </a>
 
 </div>
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-@keyframes typing {
-  0% { width: 0; opacity: 1; }
-  100% { width: 100%; opacity: 1; }
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-
-img {
-  border-radius: 10px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-}
-</style>
