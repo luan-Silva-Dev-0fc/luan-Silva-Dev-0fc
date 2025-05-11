@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="../RADME GIT/img/Banner Github _20250510_204329_0000.jpg" alt="Meu Banner" style="width:100%; border-radius: 10px;" />
+<img src="../RADME GIT/Banner Github _20250510_204329_0000.jpg" alt="Meu Banner" style="width:100%; border-radius: 10px;" />
 
 <!-- Fundo com cor personalizada -->
 <div align="center" style="background-color:#031319; padding: 40px; border-radius: 15px; color: white; font-family: 'Segoe UI', sans-serif;">
@@ -17,7 +17,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,python&theme=light&perline=4" alt="Tech stack" />
-    <img src="../RADME GIT/svg/programmer-animate.svg" alt="Animação do Programador" width="200" />
+    <img src="../RADME GIT/programmer-animate.svg" alt="Animação do Programador" width="200" />
   </div>
 
   <hr style="border: 1px solid #546C4A; width: 60%; margin: 30px auto;" />
