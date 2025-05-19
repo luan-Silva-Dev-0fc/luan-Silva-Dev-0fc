@@ -1,5 +1,8 @@
 <div align="center" style="background-color:#031319; padding: 40px 20px; border-radius: 15px; color: white; font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: auto; box-shadow: 0 0 30px #00ffc3;">
 
+  <!-- Adicionando o banner no topo -->
+  <img src="https://github.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/blob/main/banner.png?raw=true" alt="Banner" style="margin-bottom: 40px; border-radius: 15px; box-shadow: 0 0 30px #00ffc3;" />
+
   <div style="margin-bottom: 30px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,python&theme=light&perline=7" alt="Skills" />
   </div>
