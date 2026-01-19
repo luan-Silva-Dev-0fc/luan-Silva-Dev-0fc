@@ -49,12 +49,8 @@
 
 ---
 
-### Conquistas e Reconhecimento
 
-<img src="https://github-profile-trophy.vercel.app/?username=luan-Silva-Dev-0fc&theme=tokyonight&no-bg=true&column=7&margin-w=15" width="100%" />
 
-<br>
-
-<img src="https://img.shields.io/github/followers/luan-Silva-Dev-0fc?label=Followers&style=for-the-badge&color=00ffc3&logo=github" /> <img src="https://img.shields.io/github/stars/luan-Silva-Dev-0fc?label=Stars&style=for-the-badge&color=00ffc3&logo=reverbnation" /> <img src="https://img.shields.io/github/repo-size/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc?label=Repo%20Size&style=for-the-badge&color=00ffc3" />
 
 </div>
+
