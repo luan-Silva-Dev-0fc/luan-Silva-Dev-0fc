@@ -2,7 +2,7 @@
 
 # Luan Silva - Software Developer
 
-<img src="https://github.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/blob/main/banner.png?raw=true" width="100%" />
+<img src="" width="100%" />
 
 <br>
 
@@ -43,3 +43,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3" width="100%" />
 
 </div>
+
