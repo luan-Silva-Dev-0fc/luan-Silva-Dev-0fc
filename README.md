@@ -21,12 +21,7 @@
 
 ---
 
-### Estatísticas de Desenvolvimento
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luan-Silva-Dev-0fc&show_icons=true&theme=tokyonight&title_color=00ffc3&text_color=B0B0B0&bg_color=0d1117&border_color=00ffc3&border_radius=10" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-Silva-Dev-0fc&layout=compact&theme=tokyonight&title_color=00ffc3&text_color=B0B0B0&bg_color=0d1117&border_color=00ffc3&border_radius=10" height="180px" />
-</div>
 
 <br>
 
@@ -53,4 +48,5 @@
 
 
 </div>
+
 
