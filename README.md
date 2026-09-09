@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>Fortaleza - CE, Brasil</b> 📍 | Desenvolvedor focado em criar aplicações modernas, robustas e de alto impacto.
+    <b>Fortaleza - CE, Brasil</b>  | Desenvolvedor focado em criar aplicações modernas, robustas e de alto impacto.
   </p>
 
   <!-- Badges / Conexões -->
@@ -34,10 +34,10 @@
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
       </td>
       <td width="52%" style="padding-left: 20px;">
-        <h3 align="left">🚀 Interface & Performance</h3>
-        <p align="left">📱 Especializado no desenvolvimento de aplicações mobile e web de alto desempenho utilizando <b>Flutter</b> e <b>React Native</b>.</p>
-        <p align="left">⚙️ Focado em arquiteturas escaláveis, microsserviços e APIs robustas com <b>Java</b>, <b>Python</b> e <b>Node.js</b>.</p>
-        <p align="left">💡 Experiência em banco de dados SQL/NoSQL, integrações em nuvem e boas práticas de engenharia de software.</p>
+        <h3 align="left"> Interface & Performance</h3>
+        <p align="left"> Especializado no desenvolvimento de aplicações mobile e web de alto desempenho utilizando <b>Flutter</b> e <b>React Native</b>.</p>
+        <p align="left"> Focado em arquiteturas escaláveis, microsserviços e APIs robustas com <b>Java</b>, <b>Python</b> e <b>Node.js</b>.</p>
+        <p align="left"> Experiência em banco de dados SQL/NoSQL, integrações em nuvem e boas práticas de engenharia de software.</p>
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
   <br>
 
   <!-- Projetos em Destaque -->
-  <h3>🌟 Projetos em Destaque</h3>
+  <h3>Projetos em Destaque</h3>
   <table>
     <tr>
       <td width="33%" align="center">
@@ -68,7 +68,7 @@
   <br>
 
   <!-- Métricas e Estatísticas -->
-  <h3>📊 Estatísticas do GitHub</h3>
+  <h3>Estatísticas do GitHub</h3>
 
   <div>
     <img src="https://streak-stats.demolab.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3&background=0d1117&border=00ffc3" width="49%" alt="GitHub Streak" />
@@ -78,7 +78,7 @@
   <br>
 
   <!-- Gráfico de Contribuições Real (100% Funcional) -->
-  <h3>📈 Gráfico de Contribuições</h3>
+  <h3>Gráfico de Contribuições</h3>
   <img src="https://ghchart.rshah.org/00ffc3/luan-Silva-Dev-0fc" alt="Gráfico de Contribuições do Luan" width="100%" />
 
   <br><br>
