@@ -100,7 +100,7 @@
   <hr style="border: 1px solid #00ffc3; opacity: 0.2;">
   <br>
 
-    <!-- CONQUISTAS OFICIAIS (ACHIEVEMENTS SHOWCASE) -->
+
   <h3>Conquistas Oficiais</h3>
   <p align="center">
     <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
