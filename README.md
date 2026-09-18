@@ -49,10 +49,6 @@
         <sub>Sistema avançado de gerenciamento técnico e automação de processos.</sub>
       </td>
       <td width="33%" align="center">
-        <b><a href="https://github.com/luan-Silva-Dev-0fc/SkyCine">SkyCine</a></b><br>
-        <sub>Plataforma de streaming moderna com interface imersiva e catálogo de filmes.</sub>
-      </td>
-      <td width="33%" align="center">
         <b><a href="https://github.com/luan-Silva-Dev-0fc/pet-e-saude">Pet & Saúde</a></b><br>
         <sub>Ecossistema completo para gestão veterinária e prontuários digitais.</sub>
       </td>
