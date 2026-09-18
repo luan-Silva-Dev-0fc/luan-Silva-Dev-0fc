@@ -1,90 +1,114 @@
 <div align="center">
 
   <a href="https://github.com/luan-Silva-Dev-0fc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00FFC3&center=true&vCenter=true&width=620&lines=Luan+Nascimento;Desenvolvedor+Full+Stack;Mobile:+Flutter+%26+React+Native;Backend:+Java,+Python+%26+Node.js;Construindo+Solu%C3%A7%C3%B5es+Escal%C3%A1veis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00FFC3&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luan+Silva+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%26+Mobile;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js;React+Native+%E2%80%A2+Python+%E2%80%A2+APIs+REST;Criando+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Fortaleza--CE-00ffc3?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Localização" />
+    <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Fortaleza--CE-00ffc3?style=for-the-badge&logo=googlemaps&logoColor=0d1117&labelColor=0d1117" alt="Localização" />
+    <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-00ffc3?style=for-the-badge&logo=codefactor&logoColor=0d1117&labelColor=0d1117" alt="Status" />
     <a href="https://github.com/luan-Silva-Dev-0fc">
       <img src="https://img.shields.io/badge/GitHub-luan--Silva--Dev--0fc-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://github.com/luan-Silva-Dev-0fc/portfolio">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-00ffc3?style=for-the-badge&logo=About.me&logoColor=0d1117&labelColor=0d1117" alt="Portfólio" />
+  </p>
+
+  <p align="center">
+    🚀 <i>Desenvolvedor de software focado na construção de aplicações web modernas, apps mobile e arquiteturas de backend robustas.</i>
+  </p>
+
+  <br>
+
+  <!-- SKILLS SECTION -->
+  <h3>💻 Tecnologias & Ferramentas</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mysql,prisma,firebase,docker,git,github,vscode,figma,postman&perline=10&theme=dark" alt="Minhas Habilidades" />
     </a>
   </p>
 
-  <p align="center">
-    Desenvolvedor focado em criar aplicações modernas, robustas e de alto impacto.
-  </p>
+  <br>
+
+  <!-- HIGHLIGHT DETAILS -->
+  <table width="100%">
+    <tr>
+      <td width="50%" align="left" style="padding: 15px;">
+        <h3>🌐 Frontend & Mobile</h3>
+        <p>• Interfaces responsivas, acessíveis e focadas em experiência do usuário (UX/UI).</p>
+        <p>• Desenvolvimento de aplicações completas com <b>Next.js</b>, <b>React</b> e <b>TypeScript</b>.</p>
+        <p>• Aplicativos mobile com <b>React Native</b> e <b>Expo</b>.</p>
+      </td>
+      <td width="50%" align="left" style="padding: 15px;">
+        <h3>⚙️ Backend & Dados</h3>
+        <p>• Criação e consumo de APIs RESTful estruturadas e documentadas.</p>
+        <p>• Arquitetura com <b>Node.js</b>, <b>Python (FastAPI)</b> e ORMs como <b>Prisma</b>.</p>
+        <p>• Modelagem e integração com bancos relacionais (PostgreSQL, MySQL) e NoSQL.</p>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  <h3>Tecnologias & Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,reactnative,nodejs,python,fastapi,java,kotlin,php,mysql,postgres,firebase,docker,git,github&theme=dark" alt="Tech Stack" />
-
-  <br><br>
+  <!-- FEATURED PROJECTS -->
+  <h3>🚀 Projetos em Destaque</h3>
 
   <table width="100%">
     <tr>
-      <td width="48%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+      <td width="50%" align="center" style="padding: 12px;">
+        <h4>📝 <a href="https://github.com/luan-Silva-Dev-0fc/Caderno">Caderno Digital (PWA)</a></h4>
+        <p align="left">Aplicação moderna com Next.js, TypeScript e suporte a PWA (Progressive Web App), oferecendo atalhos visuais e alta performance.</p>
+        <sub><b>Techs:</b> Next.js • TypeScript • TailwindCSS • PWA</sub>
       </td>
-      <td width="52%" style="padding-left: 20px;">
-        <h3 align="left">Interface & Performance</h3>
-        <p align="left">• Especializado no desenvolvimento de aplicações mobile e web de alto desempenho utilizando <b>Flutter</b> e <b>React Native</b>.</p>
-        <p align="left">• Focado em arquiteturas escaláveis, microsserviços e APIs robustas com <b>Java</b>, <b>Python</b> e <b>Node.js</b>.</p>
-        <p align="left">• Experiência em banco de dados SQL/NoSQL, integrações em nuvem e boas práticas de engenharia de software.</p>
+      <td width="50%" align="center" style="padding: 12px;">
+        <h4>🐾 <a href="https://github.com/luan-Silva-Dev-0fc/pet-e-saude">Pet & Saúde</a></h4>
+        <p align="left">Sistema completo voltado para gestão veterinária, agendamentos e prontuários digitais com integração de backend.</p>
+        <sub><b>Techs:</b> JavaScript • Next.js • Node.js • API</sub>
       </td>
     </tr>
-  </table>
-
-  <br>
-
-  <h3>Projetos em Destaque</h3>
-  <table>
     <tr>
-      <td width="33%" align="center">
-        <b><a href="https://github.com/luan-Silva-Dev-0fc/PRO-TEC">PRO-TEC</a></b><br>
-        <sub>Sistema avançado de gerenciamento técnico e automação de processos.</sub>
+      <td width="50%" align="center" style="padding: 12px;">
+        <h4>📱 <a href="https://github.com/luan-Silva-Dev-0fc/Tribo">Tribo (Mobile & API)</a></h4>
+        <p align="left">Aplicativo mobile em React Native acompanhado de API dedicada e painel de administração para gestão da plataforma.</p>
+        <sub><b>Techs:</b> React Native • Expo • Node.js • Prisma</sub>
       </td>
-      <td width="33%" align="center">
-        <b><a href="https://github.com/luan-Silva-Dev-0fc/pet-e-saude">Pet & Saúde</a></b><br>
-        <sub>Ecossistema completo para gestão veterinária e prontuários digitais.</sub>
+      <td width="50%" align="center" style="padding: 12px;">
+        <h4>☕ <a href="https://github.com/luan-Silva-Dev-0fc/land-page">Meow Café Landing Page</a></h4>
+        <p align="left">Página de alta conversão para cafeteria pet-friendly, focada em design moderno, animações e responsividade.</p>
+        <sub><b>Techs:</b> HTML5 • CSS3 • Design Responsivo</sub>
       </td>
     </tr>
   </table>
 
   <br>
-  <hr style="border: 1px solid #00ffc3; opacity: 0.3;">
+  <hr style="border: 1px solid #00ffc3; opacity: 0.2;">
   <br>
 
-  <h3>Estatísticas do GitHub</h3>
+  <!-- GITHUB STATS -->
+  <h3>📊 Estatísticas do GitHub</h3>
 
-  <div>
+  <div align="center">
     <img src="https://streak-stats.demolab.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3&background=0d1117&border=00ffc3" width="49%" alt="GitHub Streak" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Profile Details" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luan-Silva-Dev-0fc&show_icons=true&theme=tokyonight&hide_border=false&border_color=00ffc3&bg_color=0d1117&title_color=00ffc3&icon_color=00ffc3&text_color=ffffff" width="49%" alt="GitHub Stats" />
   </div>
 
   <br>
 
-  <h3>Gráfico de Contribuições</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-Silva-Dev-0fc&layout=compact&theme=tokyonight&hide_border=false&border_color=00ffc3&bg_color=0d1117&title_color=00ffc3&text_color=ffffff" width="49%" alt="Top Linguagens" />
+  </div>
+
+  <br>
+
+  <h3>📈 Gráfico de Contribuições</h3>
   <img src="https://ghchart.rshah.org/00ffc3/luan-Silva-Dev-0fc" alt="Gráfico de Contribuições do Luan" width="100%" />
 
   <br><br>
-
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-Silva-Dev-0fc&theme=tokyonight" width="32%" alt="GitHub Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luan-Silva-Dev-0fc&theme=tokyonight&utcOffset=-3" width="32%" alt="Horário Produtivo" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-Silva-Dev-0fc&theme=tokyonight" width="32%" alt="Linguagens Mais Usadas" />
-  </div>
-
-  <br>
-  <hr style="border: 1px solid #00ffc3; opacity: 0.3;">
+  <hr style="border: 1px solid #00ffc3; opacity: 0.2;">
   <br>
 
   <p align="center">
-    <i>"Desenvolvedor dedicado, sempre em busca de aprimorar habilidades e criar soluções eficientes."</i>
+    💬 <b>Tem uma ideia ou projeto em mente?</b> Vamos conversar e transformar em realidade!<br>
+    <i>"A dedicação e o aprendizado constante são as chaves para criar códigos de alto nível."</i>
   </p>
 
 </div>
