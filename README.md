@@ -26,16 +26,16 @@
 
   <br>
 
+  <!-- ESPECIALIDADES (CARDS LIMPOS SEM GIFS) -->
   <table width="100%">
     <tr>
-      <td width="48%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Terminal Animation" />
+      <td width="50%" align="left" style="padding: 16px; border: 1px solid rgba(0,255,195,0.2); border-radius: 8px;">
+        <h3>Frontend & Mobile</h3>
+        <p>Desenvolvimento de aplicacoes web modernas e fluidas com <b>Next.js</b>, <b>React</b> e <b>TypeScript</b>, alem de aplicativos mobile multiplataforma com <b>React Native</b> e <b>Expo</b> focados em alta usabilidade e performance.</p>
       </td>
-      <td width="52%" style="padding-left: 20px;">
-        <h3 align="left">Especialidades & Engenharia</h3>
-        <p align="left"><b>Frontend & Mobile:</b> Construcao de aplicacoes web completas em <b>Next.js</b>, <b>React</b> e <b>TypeScript</b>, alem de aplicativos nativos com <b>React Native</b> e <b>Expo</b>.</p>
-        <p align="left"><b>Backend & APIs:</b> Desenvolvimento de servicos confiaveis com <b>Node.js</b>, <b>Python (FastAPI)</b>, ORMs e modelagem de bancos de dados relacionais e nao-relacionais.</p>
-        <p align="left"><b>Boas Praticas:</b> Codigo limpo, organizacao modular, foco em alta performance e padroes modernos de desenvolvimento.</p>
+      <td width="50%" align="left" style="padding: 16px; border: 1px solid rgba(0,255,195,0.2); border-radius: 8px;">
+        <h3>Backend & Engenharia</h3>
+        <p>Construcao de servicos e APIs RESTful escalaveis utilizando <b>Node.js</b> e <b>Python (FastAPI)</b>, modelagem de bancos de dados relacionais e nao-relacionais, e adocao constante de padroes de arquitetura limpa.</p>
       </td>
     </tr>
   </table>
@@ -71,24 +71,24 @@
 
   <table width="100%">
     <tr>
-      <td width="50%" align="center" style="padding: 12px;">
+      <td width="50%" align="center" style="padding: 14px;">
         <h4><a href="https://github.com/luan-Silva-Dev-0fc/Caderno">Caderno Digital (PWA)</a></h4>
         <p align="left">Aplicacao moderna em Next.js com suporte a Progressive Web App, atalhos visuais interativos e deploy otimizado.</p>
         <sub><b>Stack:</b> Next.js • TypeScript • TailwindCSS • PWA</sub>
       </td>
-      <td width="50%" align="center" style="padding: 12px;">
+      <td width="50%" align="center" style="padding: 14px;">
         <h4><a href="https://github.com/luan-Silva-Dev-0fc/pet-e-saude">Pet & Saude</a></h4>
         <p align="left">Plataforma voltada para gestao veterinaria, controle de agendamentos e prontuarios digitais integrados.</p>
         <sub><b>Stack:</b> JavaScript • Next.js • Node.js • API REST</sub>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" style="padding: 12px;">
+      <td width="50%" align="center" style="padding: 14px;">
         <h4><a href="https://github.com/luan-Silva-Dev-0fc/Tribo">Tribo (Mobile & API)</a></h4>
         <p align="left">Aplicativo mobile completo em React Native e Expo, integrado com API central e painel de gestao administrativa.</p>
         <sub><b>Stack:</b> React Native • Expo • Node.js • Prisma</sub>
       </td>
-      <td width="50%" align="center" style="padding: 12px;">
+      <td width="50%" align="center" style="padding: 14px;">
         <h4><a href="https://github.com/luan-Silva-Dev-0fc/land-page">Meow Cafe Landing Page</a></h4>
         <p align="left">Landing page de alta fidelidade visual para cafeteria pet-friendly, priorizando acessibilidade e design responsivo.</p>
         <sub><b>Stack:</b> HTML5 • CSS3 • Design Responsivo</sub>
