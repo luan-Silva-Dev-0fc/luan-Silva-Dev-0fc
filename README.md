@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc3,100:0d1117&height=220&section=header&text=LUAN%20SILVA&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=FULL%20STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=58&descAlign=50&descSize=18&animation=fadeIn" width="100%" alt="Header Banner" />
+  <a href="https://github.com/luan-Silva-Dev-0fc">
+    <img src="https://raw.githubusercontent.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/main/assets/banner.svg" width="100%" alt="Luan Silva - Full Stack & Mobile Developer" />
+  </a>
+
+  <br><br>
 
   <a href="https://github.com/luan-Silva-Dev-0fc">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00FFC3&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%26+Mobile;TypeScript+%7C+Next.js+%7C+Node.js;React+Native+%7C+Python+%7C+APIs+REST;Construindo+sistemas+modernos+e+escalaveis" alt="Typing SVG" />
@@ -115,7 +119,5 @@
   <img src="https://ghchart.rshah.org/00ffc3/luan-Silva-Dev-0fc" alt="Grafico de Contribuicoes" width="100%" />
 
   <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc3,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
