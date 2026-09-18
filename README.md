@@ -104,13 +104,14 @@
 
   <div align="center">
     <img src="https://streak-stats.demolab.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3&background=0d1117&border=00ffc3" width="49%" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=luan-Silva-Dev-0fc&show_icons=true&theme=tokyonight&hide_border=false&border_color=00ffc3&bg_color=0d1117&title_color=00ffc3&icon_color=00ffc3&text_color=ffffff" width="49%" alt="Estatisticas Gerais" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Detalhes do Perfil" />
   </div>
 
   <br>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-Silva-Dev-0fc&layout=compact&theme=tokyonight&hide_border=false&border_color=00ffc3&bg_color=0d1117&title_color=00ffc3&text_color=ffffff" width="49%" alt="Linguagens mais utilizadas" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Estatisticas Gerais" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Linguagens mais utilizadas" />
   </div>
 
   <br>
