@@ -1,17 +1,5 @@
 <div align="center">
 
-  <h1>Luan Silva</h1>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Localizacao-Fortaleza--CE-00ffc3?style=for-the-badge&logo=googlemaps&logoColor=0d1117&labelColor=0d1117" alt="Localizacao" />
-    <img src="https://img.shields.io/badge/Status-Disponivel_para_Projetos-00ffc3?style=for-the-badge&logo=codefactor&logoColor=0d1117&labelColor=0d1117" alt="Status" />
-    <a href="https://github.com/luan-Silva-Dev-0fc">
-      <img src="https://img.shields.io/badge/GitHub-luan--Silva--Dev--0fc-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-  <br>
-
   <h3>Tecnologias & Linguagens</h3>
 
   <p align="center">
@@ -40,18 +28,6 @@
   <h3>Projetos em Destaque</h3>
 
   <table width="100%">
-    <tr>
-      <td width="50%" align="center" style="padding: 14px;">
-        <h4><a href="https://github.com/luan-Silva-Dev-0fc/Caderno">Caderno Digital (PWA)</a></h4>
-        <p align="left">Aplicacao moderna em Next.js com suporte a Progressive Web App, atalhos visuais interativos e deploy otimizado.</p>
-        <sub><b>Stack:</b> Next.js • TypeScript • TailwindCSS • PWA</sub>
-      </td>
-      <td width="50%" align="center" style="padding: 14px;">
-        <h4><a href="https://github.com/luan-Silva-Dev-0fc/pet-e-saude">Pet & Saude</a></h4>
-        <p align="left">Plataforma voltada para gestao veterinaria, controle de agendamentos e prontuarios digitais integrados.</p>
-        <sub><b>Stack:</b> JavaScript • Next.js • Node.js • API REST</sub>
-      </td>
-    </tr>
     <tr>
       <td width="50%" align="center" style="padding: 14px;">
         <h4><a href="https://github.com/luan-Silva-Dev-0fc/Tribo">Tribo (Mobile & API)</a></h4>
