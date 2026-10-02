@@ -41,7 +41,7 @@
   <h3>Tecnologias & Ferramentas</h3>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/main/assets/skills.svg" width="100%" alt="Tecnologias e Ferramentas" />
+    <img src="./assets/skills.svg" width="100%" alt="Tecnologias e Ferramentas" />
   </p>
 
   <br>
