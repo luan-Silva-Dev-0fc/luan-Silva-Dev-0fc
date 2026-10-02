@@ -1,16 +1,6 @@
 <div align="center">
 
-  <a href="https://github.com/luan-Silva-Dev-0fc">
-    <img src="https://raw.githubusercontent.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/main/assets/banner.svg" width="100%" alt="Luan Silva - Full Stack & Mobile Developer" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/luan-Silva-Dev-0fc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=00FFC3&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack+%26+Mobile;TypeScript+%7C+Next.js+%7C+Node.js;React+Native+%7C+Python+%7C+APIs+REST;Construindo+sistemas+modernos+e+escalaveis" alt="Typing SVG" />
-  </a>
-
-  <br><br>
+  <h1>Luan Silva</h1>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Localizacao-Fortaleza--CE-00ffc3?style=for-the-badge&logo=googlemaps&logoColor=0d1117&labelColor=0d1117" alt="Localizacao" />
@@ -19,26 +9,6 @@
       <img src="https://img.shields.io/badge/GitHub-luan--Silva--Dev--0fc-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-
-  <p align="center">
-    <b>Desenvolvedor focado em engenharia de software moderna, arquiteturas escalaveis e interfaces fluidas.</b>
-  </p>
-
-  <br>
-
-  <!-- ESPECIALIDADES (CARDS LIMPOS SEM GIFS) -->
-  <table width="100%">
-    <tr>
-      <td width="50%" align="left" style="padding: 16px; border: 1px solid rgba(0,255,195,0.2); border-radius: 8px;">
-        <h3>Frontend & Mobile</h3>
-        <p>Desenvolvimento de aplicacoes web modernas e fluidas com <b>Next.js</b>, <b>React</b> e <b>TypeScript</b>, alem de aplicativos mobile multiplataforma com <b>React Native</b> e <b>Expo</b> focados em alta usabilidade e performance.</p>
-      </td>
-      <td width="50%" align="left" style="padding: 16px; border: 1px solid rgba(0,255,195,0.2); border-radius: 8px;">
-        <h3>Backend & Engenharia</h3>
-        <p>Construcao de servicos e APIs RESTful escalaveis utilizando <b>Node.js</b> e <b>Python (FastAPI)</b>, modelagem de bancos de dados relacionais e nao-relacionais, e adocao constante de padroes de arquitetura limpa.</p>
-      </td>
-    </tr>
-  </table>
 
   <br>
 
