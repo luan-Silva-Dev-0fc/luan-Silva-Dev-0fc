@@ -38,27 +38,10 @@
   <hr style="border: 1px solid #1e00ffff; opacity: 0.2;">
   <br>
 
-  <h3>Tecnologias & Linguagens</h3>
+  <h3>Tecnologias & Ferramentas</h3>
 
   <p align="center">
-    <b>Frontend & Mobile</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,reactnative&perline=9&theme=dark" alt="Frontend e Mobile" />
-    </a>
-  </p>
-
-  <p align="center">
-    <b>Backend & Banco de Dados</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mysql,prisma,firebase&perline=8&theme=dark" alt="Backend e Banco de Dados" />
-    </a>
-  </p>
-
-  <p align="center">
-    <b>DevOps & Ferramentas</b><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux&perline=7&theme=dark" alt="DevOps e Ferramentas" />
-    </a>
+    <img src="https://raw.githubusercontent.com/luan-Silva-Dev-0fc/luan-Silva-Dev-0fc/main/assets/skills.svg" width="100%" alt="Tecnologias e Ferramentas" />
   </p>
 
   <br>
