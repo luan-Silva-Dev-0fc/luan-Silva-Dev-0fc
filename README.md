@@ -1,5 +1,43 @@
 <div align="center">
 
+  <h3>Conquistas Oficiais</h3>
+  <p align="center">
+    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="105" alt="Pull Shark" />
+    </a>
+    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105" alt="Quickdraw" />
+    </a>
+    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105" alt="YOLO" />
+    </a>
+    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
+      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="105" alt="Pair Extraordinaire" />
+    </a>
+  </p>
+
+  <br>
+  <hr style="border: 1px solid #1e00ffff; opacity: 0.2;">
+  <br>
+
+  <h3>Estatisticas do Perfil</h3>
+
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3&background=0d1117&border=00ffc3" width="49%" alt="Streak Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Detalhes do Perfil" />
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Estatisticas Gerais" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Linguagens mais utilizadas" />
+  </div>
+
+  <br>
+  <hr style="border: 1px solid #1e00ffff; opacity: 0.2;">
+  <br>
+
   <h3>Tecnologias & Linguagens</h3>
 
   <p align="center">
@@ -43,43 +81,7 @@
   </table>
 
   <br>
-  <hr style="border: 1px solid #00ffc3; opacity: 0.2;">
-  <br>
-
-
-  <h3>Conquistas Oficiais</h3>
-  <p align="center">
-    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="105" alt="Pull Shark" />
-    </a>
-    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="105" alt="Quickdraw" />
-    </a>
-    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="105" alt="YOLO" />
-    </a>
-    <a href="https://github.com/luan-Silva-Dev-0fc?tab=achievements">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="105" alt="Pair Extraordinaire" />
-    </a>
-  </p>
-
-  <br>
-  <hr style="border: 1px solid #00ffc3; opacity: 0.2;">
-  <br>
-  <h3>Estatisticas do Perfil</h3>
-
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=luan-Silva-Dev-0fc&theme=tokyonight&fire=00ffc3&ring=00ffc3&sideNums=00ffc3&stroke=00ffc3&currStreakLabel=00ffc3&background=0d1117&border=00ffc3" width="49%" alt="Streak Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Detalhes do Perfil" />
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Estatisticas Gerais" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luan-Silva-Dev-0fc&theme=tokyonight" width="49%" alt="Linguagens mais utilizadas" />
-  </div>
-
+  <hr style="border: 1px solid #1e00ffff; opacity: 0.2;">
   <br>
 
   <h3>Atividade & Contribuicoes</h3>
